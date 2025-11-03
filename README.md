@@ -49,7 +49,7 @@ portfolio_2410010385/
 
 ## 🔗 Tautan
 
-- 🌍 **Website:** https://muhammadjumberi.github.io/portfolio_Muhammad_Jumberi_2410010385/
+- 🌍 **Website:** https://jextra7.github.io/portofolio_Muhammad_Jumberi_2410010385/
 - 💼 **LinkedIn:** https://linkedin.com/in/muhammadjumberi
 - 📷 **Instagram:** https://instagram.com/j.extra7
 - ✉️ **Email:** mlutfi994@gmail.com
