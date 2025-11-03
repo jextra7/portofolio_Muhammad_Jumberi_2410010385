@@ -49,7 +49,7 @@ portfolio_2410010385/
 
 ## 🔗 Tautan
 
-- 🌍 **Website:** https://muhammadjumberi.github.io/portfolio_2410010385/
+- 🌍 **Website:** https://muhammadjumberi.github.io/portfolio_Muhammad_Jumberi_2410010385/
 - 💼 **LinkedIn:** https://linkedin.com/in/muhammadjumberi
 - 📷 **Instagram:** https://instagram.com/j.extra7
 - ✉️ **Email:** mlutfi994@gmail.com
@@ -67,7 +67,7 @@ Saat diklik, akan muncul pesan kecil (alert) dengan fakta unik tentang saya. ☕
 
 1. Unduh repository ini (`Code → Download ZIP`) atau clone:
    ```bash
-   git clone https://github.com/muhammadjumberi/portfolio_2410010385.git
+   git clone https://github.com/muhammadjumberi/portfolio_Muhammad_Jumberi_2410010385.git
    ```
 2. Ekstrak file ZIP.
 3. Klik dua kali `index.html` untuk membuka di browser.
